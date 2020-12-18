@@ -6,7 +6,7 @@ public class Test2 {
 		System.out.println("I am Team Lead");
 
 		int a=10,b=2,c=0;
-		c=a*b;
+		c=a/b;
 		System.out.println("Result is"+c);
 	}
 
